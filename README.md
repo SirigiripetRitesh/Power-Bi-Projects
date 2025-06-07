@@ -13,3 +13,7 @@ This Power BI project showcases a dynamic and interactive dashboard designed to 
 **American Bank Customer Balance Analysis Dashboard (Power BI):**
 This Power BI dashboard provides a detailed analysis of customer balances for a fictional bank, segmented by demographics such as gender, education, marital status, and job classification. The dashboard highlights key insights like total balance distribution, male vs. female balance comparison, homeowner vs. renter balances, and job category contributions. It leverages powerful data visualizations including bar charts, pie charts, and KPI cards to present financial data in a clear, accessible format. This project demonstrates skills in data modeling, DAX, and visual storytelling for effective financial data analysis and customer segmentation.
 
+
+
+**HR Analytics Dashboard:**
+This Power BI project showcases a dynamic HR Analytics Dashboard designed to deliver meaningful insights into workforce trends. It presents a comprehensive view of employee attrition, active workforce, age distribution, and job satisfaction levels. The dashboard includes visual breakdowns by department, education field, age group, and gender. Interactive elements such as pie charts, bar graphs, and donut charts help in analyzing attrition patterns and employee demographics. It also covers satisfaction ratings across different job roles, enabling better workforce planning. This project demonstrates how Power BI can be used to support data-driven HR decisions through impactful visualization.
